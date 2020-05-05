@@ -1,0 +1,8 @@
+Instalar typescript
+    npm i typescript -g
+
+Para transpilar el archivo 
+    tsc <nombre del archivo>.ts
+
+Para que typescript observe los cambios en el codigo y los ejecute de forma automatica
+    tsc <nombre del archivo>.ts -w
